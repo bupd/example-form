@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/example-form/static/css/main.532dc7c4.css",
+    "main.js": "/example-form/static/js/main.c9fcb40b.js",
+    "static/media/landing1.jpeg": "/example-form/static/media/landing1.b6a16d0ddf590c6a8b8d.jpeg",
+    "index.html": "/example-form/index.html",
+    "main.532dc7c4.css.map": "/example-form/static/css/main.532dc7c4.css.map",
+    "main.c9fcb40b.js.map": "/example-form/static/js/main.c9fcb40b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.532dc7c4.css",
+    "static/js/main.c9fcb40b.js"
+  ]
+}
