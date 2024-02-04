@@ -30,7 +30,7 @@ export const PhotoId = () => {
       </div>
       <div className="w-full mx-auto divide-y">
         <div>
-          <h1 className="text-4xl text-center font-medium mb-2">Patient's Photo ID Card</h1>
+          <h1 className="text-4xl text-center font-medium mb-2">Doctor's Photo ID Card</h1>
         </div>
 
         <div className="m-3 p-3 text-center font-normal">
