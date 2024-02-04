@@ -8,12 +8,12 @@ RUN adduser app wheel
 
 USER app
 WORKDIR /app
-RUN mkdir data
 
 # Install sudo
 USER root
 RUN apk add --no-cache sudo
 
+RUN mkdir data
 COPY package* /app/
 RUN npm install
 
