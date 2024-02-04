@@ -8,6 +8,7 @@ RUN adduser app wheel
 
 USER app
 WORKDIR /app
+RUN mkdir data
 
 # Install sudo
 USER root
